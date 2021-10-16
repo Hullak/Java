@@ -1,3 +1,5 @@
+package Czesc01;
+
 public class TypyProste {
     // liczby stałoprzecinkowe
     byte byteNumber = 127; // 1 bajt -128 do 127

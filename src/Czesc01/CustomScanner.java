@@ -1,3 +1,5 @@
+package Czesc01;
+
 import java.util.Scanner;
 
 public class CustomScanner {

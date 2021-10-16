@@ -1,3 +1,5 @@
+package Czesc01;
+
 // umozliwiaja wykonanie podstawowych operacji matematycznych
 public class OperatoryMatematyczne {
 

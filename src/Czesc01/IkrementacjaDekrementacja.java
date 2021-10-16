@@ -1,3 +1,5 @@
+package Czesc01;
+
 // postinkrementacja=najpierw przypisanie wartości dopiero później zwiększenie wartości o 1
 // preinkrementacja=najpierw zwiększenie wartości później przypisanie
 public class IkrementacjaDekrementacja {

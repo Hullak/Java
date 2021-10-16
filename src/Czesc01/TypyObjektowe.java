@@ -1,3 +1,5 @@
+package Czesc01;
+
 //aby korzystać z kolekcji są potrzebne typy objektowe
 public class TypyObjektowe {
     // liczby stałoprzecinkowe
