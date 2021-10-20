@@ -19,11 +19,5 @@ public class CalculatorTest {
         calculator.multiplication(firstNumber,secondNumber);
         calculator.division(firstNumber,secondNumber);
         calculator.modulo(firstNumber,secondNumber);
-
-//        System.out.println("Wynik dodawania " + addition);
-//        System.out.println("Wynik odejmowania " + subtraction);
-//        System.out.println("Wynik mnożenia " + multiplication);
-//        System.out.println("Wynik dzielenia " + division);
-//        System.out.println("Wynik modulo " + modulo);
     }
 }
