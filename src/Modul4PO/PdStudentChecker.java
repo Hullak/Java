@@ -7,6 +7,8 @@ public class PdStudentChecker {
 
     public static void main(String[] args) {
 
+        Student.infoUczelnia();
+
         Student studentA = new Student();
         studentA.imię = "Janek";
         studentA.nazwisko = "Kowal";
