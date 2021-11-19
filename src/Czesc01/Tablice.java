@@ -12,8 +12,10 @@ public class Tablice {
         System.out.println(imiona[1]);
         System.out.println(imiona[2]);
 
-        for (int i=0; i<imiona.length;i++) {
-            System.out.println(imiona[i]);
+        int[] lottoNumbers = new int[] {1,2,3,4,5,6};
+
+        for (int i=0; i<lottoNumbers.length;i++) {
+            System.out.println(lottoNumbers[i]);
 
 //        int[] number = new int[] {1,2,3,4,5,6};
 //        System.out.println(number[0]);

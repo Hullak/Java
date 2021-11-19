@@ -1,4 +1,4 @@
-import Modul4PO.Person;
+import programowanieobjektowe.Person;
 
 public class FinalTest {
 

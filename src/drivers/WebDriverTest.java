@@ -25,13 +25,13 @@ public class WebDriverTest {
 
     }
 
-    private static WebDriver getDriver(DriverType type) {
+    public static drivers.ChromeDriver getDriver(DriverType type) {
         if (type.name.equals("chrome")) {
             System.out.println(type.path);
             return new ChromeDriver();
         }
         System.out.println(type.path);
-        return new FirefoxDriver();
+        return new ChromeDriver();
 
     }
 }

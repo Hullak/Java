@@ -1,7 +1,5 @@
 package drivers;
 
-import drivers.WebDriver;
-
 public class FirefoxDriver implements WebDriver {
     @Override
     public void get() {

@@ -8,7 +8,7 @@ public enum DriverType {
     String name;
     String path;
 
-    DriverType(String name,String path) {
+    DriverType(String name, String path) {
     this.name = name;
     this.path = path;
     }

@@ -1,6 +1,6 @@
 package document;
 
-public class Document {
+class Document {
 
     public void getDescription() {
         System.out.println("I am description");
